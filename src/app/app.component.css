@@ -53,6 +53,10 @@
     font-family: 'Sofia', cursive;
     font-size: 48px;
 }
+.subtitle{
+    font-family: 'Roboto', sans-serif;
+    font-size: 28px;
+}
 
 .contact{
     height: 110px;
